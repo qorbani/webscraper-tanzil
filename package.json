@@ -1,0 +1,27 @@
+{
+  "name": "webscraper-tanzil",
+  "version": "0.1.0",
+  "description": "Website Scraper for Tanzil.net",
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qorbani/webscraper-tanzil.git"
+  },
+  "keywords": [
+    "scraper",
+    "tanzil",
+    "quran",
+    "translation"
+  ],
+  "author": "Reza Qorbani <reza@qorbani.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webscraper": "~0.1.0"
+  }
+}
