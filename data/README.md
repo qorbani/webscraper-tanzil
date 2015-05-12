@@ -1,6 +1,6 @@
 ## Generated Data from Tanzil Scraper
 ---
 
-Collect following data from Tanzil:
+Collect following data from Tanzil.net:
 
-- trans.json - List of all translation
+- trans.json - List of all translations

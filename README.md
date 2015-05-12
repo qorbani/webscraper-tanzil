@@ -6,12 +6,13 @@ Collect following data sources from Tanzil.net:
 	- Source: [Quran Translations](http://tanzil.net/trans/)
 	- Fields:
         - ID
+        - CountryCode
+        - Language
         - Name
         - Translator
-		- Language
-		- Country
-        - Link
+        - Biography
         - Download
+        - ChangeLog
 
 Module provide following sections for each data source:
 
